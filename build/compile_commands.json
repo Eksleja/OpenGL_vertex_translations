@@ -1,0 +1,26 @@
+[
+{
+  "directory": "E:/Cpp_Course/openGL from zero 7 - 3D interactive rotation/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/hello_window.dir/includes_CXX.rsp -g -o CMakeFiles/hello_window.dir/src/main.cpp.obj -c \"E:/Cpp_Course/openGL from zero 7 - 3D interactive rotation/src/main.cpp\"",
+  "file": "E:/Cpp_Course/openGL from zero 7 - 3D interactive rotation/src/main.cpp",
+  "output": "CMakeFiles/hello_window.dir/src/main.cpp.obj"
+},
+{
+  "directory": "E:/Cpp_Course/openGL from zero 7 - 3D interactive rotation/build",
+  "command": "C:/msys64/mingw64/bin/gcc.exe  @CMakeFiles/hello_window.dir/includes_C.rsp -g -o CMakeFiles/hello_window.dir/src/glad.c.obj -c \"E:/Cpp_Course/openGL from zero 7 - 3D interactive rotation/src/glad.c\"",
+  "file": "E:/Cpp_Course/openGL from zero 7 - 3D interactive rotation/src/glad.c",
+  "output": "CMakeFiles/hello_window.dir/src/glad.c.obj"
+},
+{
+  "directory": "E:/Cpp_Course/openGL from zero 7 - 3D interactive rotation/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/hello_window.dir/includes_CXX.rsp -g -o CMakeFiles/hello_window.dir/src/triangle_mesh.cpp.obj -c \"E:/Cpp_Course/openGL from zero 7 - 3D interactive rotation/src/triangle_mesh.cpp\"",
+  "file": "E:/Cpp_Course/openGL from zero 7 - 3D interactive rotation/src/triangle_mesh.cpp",
+  "output": "CMakeFiles/hello_window.dir/src/triangle_mesh.cpp.obj"
+},
+{
+  "directory": "E:/Cpp_Course/openGL from zero 7 - 3D interactive rotation/build",
+  "command": "C:/msys64/mingw64/bin/g++.exe  @CMakeFiles/hello_window.dir/includes_CXX.rsp -g -o CMakeFiles/hello_window.dir/src/linAlgebra.cpp.obj -c \"E:/Cpp_Course/openGL from zero 7 - 3D interactive rotation/src/linAlgebra.cpp\"",
+  "file": "E:/Cpp_Course/openGL from zero 7 - 3D interactive rotation/src/linAlgebra.cpp",
+  "output": "CMakeFiles/hello_window.dir/src/linAlgebra.cpp.obj"
+}
+]
